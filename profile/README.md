@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Welcome to TCCC Labs.
+Welcome to TCC Labs.
