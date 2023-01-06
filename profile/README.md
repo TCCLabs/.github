@@ -1,4 +1,4 @@
-![](https://github.com/TCCLabs/repository/blob/master/assets/3_1_extractwide.png)
+![](https://github.com/TCCLabs/branding/blob/main/assets/3_1_extractwide.png)
 
 ## Hi there 👋
 
