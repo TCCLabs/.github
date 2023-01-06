@@ -1,5 +1,3 @@
-# Us
-
 <img src="https://github.com/TCCLabs/branding/blob/main/assets/1_1_tcclabs.png" width="200" height="200" />
 
 ## Our projects
