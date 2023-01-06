@@ -1,5 +1,5 @@
-![](https://github.com/TCCLabs/branding/blob/main/assets/3_1_extractwide.png)
+![TCCLabs Logo](https://github.com/TCCLabs/branding/blob/main/assets/1_1_tcclabs.png)
 
-## Hi there 👋
+## Our projects
 
-Welcome to TCC Labs.
+![Extract Logo Wide Background](https://github.com/TCCLabs/branding/blob/main/assets/3_1_extractwideb.png)
