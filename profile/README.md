@@ -1,11 +1,8 @@
-<img src="https://github.com/TCCLabs/branding/blob/main/assets/1_1_tcclabs.png" width="200" height="200" />
+<h1 align="center"><img src="https://github.com/TCCLabs/branding/blob/main/assets/1_1_tcclabs.png" width="200" height="200"/></h1>
 <h2 align="center" style="border-bottom: none"><img src="https://raw.githubusercontent.com/cardano-foundation/state-of-the-developer-ecosystem/main/.github/icon.svg" height="25"> Building on Cardano </h2>
 
-## Our projects
-
-[Extract](https://tcclabs.github.io/extract/)
-
-![Extract Logo Wide Background](https://github.com/TCCLabs/branding/blob/main/assets/1_1_extract2.png)
+# Our projects
+<a href="https://tcclabs.github.io/extract/"><img src="https://github.com/TCCLabs/branding/blob/main/assets/1_1_extract2.png"/></a>
 
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/discord.svg" height="24" /> Community
 
