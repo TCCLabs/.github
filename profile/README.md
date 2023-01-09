@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/TCCLabs/branding/blob/main/assets/1_1_tcclabs.png" width="200" height="200"/></h1>
-<h2 align="center" style="border-bottom: none"><img src="https://raw.githubusercontent.com/cardano-foundation/state-of-the-developer-ecosystem/main/.github/icon.svg" height="25"> Building on Cardano </h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/cardano-foundation/state-of-the-developer-ecosystem/main/.github/icon.svg" height="25"> Building on Cardano </h2>
 
 # Our projects
 <a href="https://tcclabs.github.io/extract/"><img src="https://github.com/TCCLabs/branding/blob/main/assets/1_1_extract2.png"/></a>
